@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.hundsun.fund.ets:xalan:2.7.0.20130617">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/hundsun/fund/ets/xalan/2.7.0.20130617/xalan-2.7.0.20130617.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/hundsun/fund/ets/xalan/2.7.0.20130617/xalan-2.7.0.20130617-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/hundsun/fund/ets/xalan/2.7.0.20130617/xalan-2.7.0.20130617-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

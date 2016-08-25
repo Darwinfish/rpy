@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.hundsun.fund.ets:fund_fundclient:2.0.0.20130916">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/hundsun/fund/ets/fund_fundclient/2.0.0.20130916/fund_fundclient-2.0.0.20130916.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/hundsun/fund/ets/fund_fundclient/2.0.0.20130916/fund_fundclient-2.0.0.20130916-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/hundsun/fund/ets/fund_fundclient/2.0.0.20130916/fund_fundclient-2.0.0.20130916-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.hundsun.fund.ets:baosight:1.0.0.20130624">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/hundsun/fund/ets/baosight/1.0.0.20130624/baosight-1.0.0.20130624.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/hundsun/fund/ets/baosight/1.0.0.20130624/baosight-1.0.0.20130624-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/hundsun/fund/ets/baosight/1.0.0.20130624/baosight-1.0.0.20130624-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

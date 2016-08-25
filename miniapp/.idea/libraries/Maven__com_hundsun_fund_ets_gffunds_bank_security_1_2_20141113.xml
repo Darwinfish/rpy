@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.hundsun.fund.ets:gffunds-bank-security:1.2.20141113">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/hundsun/fund/ets/gffunds-bank-security/1.2.20141113/gffunds-bank-security-1.2.20141113.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/hundsun/fund/ets/gffunds-bank-security/1.2.20141113/gffunds-bank-security-1.2.20141113-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/hundsun/fund/ets/gffunds-bank-security/1.2.20141113/gffunds-bank-security-1.2.20141113-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

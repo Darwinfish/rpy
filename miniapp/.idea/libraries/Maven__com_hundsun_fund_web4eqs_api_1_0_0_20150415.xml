@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.hundsun.fund:web4eqs-api:1.0.0.20150415">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/hundsun/fund/web4eqs-api/1.0.0.20150415/web4eqs-api-1.0.0.20150415.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/hundsun/fund/web4eqs-api/1.0.0.20150415/web4eqs-api-1.0.0.20150415-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/hundsun/fund/web4eqs-api/1.0.0.20150415/web4eqs-api-1.0.0.20150415-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

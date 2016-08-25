@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.hundsun.fund:web4ets-api:1.0.0.20140529">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/hundsun/fund/web4ets-api/1.0.0.20140529/web4ets-api-1.0.0.20140529.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/hundsun/fund/web4ets-api/1.0.0.20140529/web4ets-api-1.0.0.20140529-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/hundsun/fund/web4ets-api/1.0.0.20140529/web4ets-api-1.0.0.20140529-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

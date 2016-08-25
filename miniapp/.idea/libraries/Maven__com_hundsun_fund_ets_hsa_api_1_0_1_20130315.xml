@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.hundsun.fund.ets:hsa_api:1.0.1.20130315">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/hundsun/fund/ets/hsa_api/1.0.1.20130315/hsa_api-1.0.1.20130315.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/hundsun/fund/ets/hsa_api/1.0.1.20130315/hsa_api-1.0.1.20130315-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/hundsun/fund/ets/hsa_api/1.0.1.20130315/hsa_api-1.0.1.20130315-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

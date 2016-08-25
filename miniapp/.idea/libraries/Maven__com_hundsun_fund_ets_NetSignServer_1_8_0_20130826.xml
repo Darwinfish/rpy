@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.hundsun.fund.ets:NetSignServer:1.8.0.20130826">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/hundsun/fund/ets/NetSignServer/1.8.0.20130826/NetSignServer-1.8.0.20130826.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/hundsun/fund/ets/NetSignServer/1.8.0.20130826/NetSignServer-1.8.0.20130826-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/hundsun/fund/ets/NetSignServer/1.8.0.20130826/NetSignServer-1.8.0.20130826-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

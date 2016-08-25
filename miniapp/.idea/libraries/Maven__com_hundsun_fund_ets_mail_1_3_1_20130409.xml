@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.hundsun.fund.ets:mail:1.3.1.20130409">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/hundsun/fund/ets/mail/1.3.1.20130409/mail-1.3.1.20130409.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/hundsun/fund/ets/mail/1.3.1.20130409/mail-1.3.1.20130409-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/hundsun/fund/ets/mail/1.3.1.20130409/mail-1.3.1.20130409-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

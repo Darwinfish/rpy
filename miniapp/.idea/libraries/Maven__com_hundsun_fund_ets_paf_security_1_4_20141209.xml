@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.hundsun.fund.ets:paf.security:1.4.20141209">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/hundsun/fund/ets/paf.security/1.4.20141209/paf.security-1.4.20141209.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/hundsun/fund/ets/paf.security/1.4.20141209/paf.security-1.4.20141209-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/hundsun/fund/ets/paf.security/1.4.20141209/paf.security-1.4.20141209-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
